@@ -1,6 +1,21 @@
+section{
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    padding: 10%;
+}
 .image-color {
     background: #a1e4cc;
+    color:#FFFFFF;
 }
 .image-circle   {
     border-radius: 50%;
+}
+svg{
+    width: 100px;
+    height: 100px;
+}
+#photo{
+    width:400px;
+    height: 400px;
 }
