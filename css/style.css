@@ -1,6 +1,6 @@
-.image-color:{
+.image-color {
     background: #a1e4cc;
 }
-.image-circle:{
-    border: 50%;
+.image-circle   {
+    border-radius: 50%;
 }
