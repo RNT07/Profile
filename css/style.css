@@ -18,4 +18,8 @@ svg{
 #photo{
     width:400px;
     height: 400px;
+    float: left;
+}
+#office{
+    float: left;
 }
