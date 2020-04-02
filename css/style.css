@@ -35,3 +35,12 @@ svg{
     font-size: 2rem;
     text-align: center;
 }
+.job{
+    float: left;
+    width: 400px;
+}
+.title-color{
+    color: #4b7e6c;
+    font-size: 1.9em;
+    text-align: center;
+}
