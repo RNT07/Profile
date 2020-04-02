@@ -21,5 +21,17 @@ svg{
     float: left;
 }
 #office{
+    font-size: 3rem;
     float: left;
+    padding-top: 30%;
+    margin-left: -100px;
+}
+#name{
+    width: 400px;
+    text-align: center;
+    padding: 5% 0%;
+}
+#officeName{
+    font-size: 2rem;
+    text-align: center;
 }
