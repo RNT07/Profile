@@ -57,8 +57,8 @@ nav{
     height: 30px;
 }
 nav div{
-    text-align: center;
-    width: 200px;
+    text-align: left;
+    width: 50%;
     font-size: 1.3em;
     float: left;
 }
